@@ -1,0 +1,7 @@
+{
+  "name": "d3-demo",
+  "short_name": "d3-demo",
+  "description": "Showing D3JS",
+  "start_url": "/",
+  "display": "standalone"
+}
