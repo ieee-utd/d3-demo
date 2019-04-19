@@ -34,6 +34,6 @@ nginx:
     - api
 database:
   container_name: db
-  build: ./images/db/
+  image: mongo:4.0
   ports:
     - "27000:27017"
